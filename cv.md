@@ -22,6 +22,7 @@ I want to get a job in your company as a frontend developer.I have more than 25 
 ###
  **Code example**  
  ```
+ 
  function MySum (item1, item2) {
     return item1 + item2;
 }  
@@ -30,3 +31,6 @@ I want to get a job in your company as a frontend developer.I have more than 25 
 ## Education & Courses
 
  graduated from the Mogilev Pedagogical Institute, Faculty of Physics and Mathematics. I took courses in Microsoft in the specialty 6005, studied HTML, CSS and JS on my own, now at rs-school courses. 
+***
+## Language
+Englsh : A2(b1 in progres)
