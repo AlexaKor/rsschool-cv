@@ -1,21 +1,21 @@
 @font-face {
   font-family: "GreatVibes-Regular";
-  src: url("/fonts/GreatVibes-Regular.ttf");
+  src: url("fonts/GreatVibes-Regular.ttf");
 }
 @font-face {
   font-family: "LibreBaskerville-Italic";
-  src: url("/fonts/LibreBaskerville-Italic.ttf");
+  src: url("fonts/LibreBaskerville-Italic.ttf");
 }
 @font-face {
   font-family: "LibreBaskerville-Regular";
-  src: url("/fonts/LibreBaskerville-Regular.ttf");
+  src: url("fonts/LibreBaskerville-Regular.ttf");
 }
 * {
   box-sizing: border-box;
 }
 
 .scrcenter {
-  background-image: url("/pexels-matheus-viana-2414036.jpg");
+  background-image: url("pexels-matheus-viana-2414036.jpg");
   background-size: cover;
   max-width: 1200px;
   margin: auto;
