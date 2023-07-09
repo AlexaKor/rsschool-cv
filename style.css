@@ -1,5 +1,79 @@
-.MyName
-{
-    color: blueviolet;
-    background-color: rgb(156, 156, 176);
+@font-face {
+  font-family: "GreatVibes-Regular";
+  src: url("/fonts/GreatVibes-Regular.ttf");
+}
+@font-face {
+  font-family: "LibreBaskerville-Italic";
+  src: url("/fonts/LibreBaskerville-Italic.ttf");
+}
+@font-face {
+  font-family: "LibreBaskerville-Regular";
+  src: url("/fonts/LibreBaskerville-Regular.ttf");
+}
+* {
+  box-sizing: border-box;
+}
+
+.scrcenter {
+  background-image: url("/pexels-matheus-viana-2414036.jpg");
+  background-size: cover;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.myheader {
+  width: auto;
+  height: 180px;
+}
+.myheader img {
+  position: relative;
+  left: 23px;
+  margin-top: 15px;
+}
+.myheader h1 {
+  font-family: LibreBaskerville-Italic;
+  font-size: 6em;
+  position: relative;
+  left: 200px;
+  bottom: 210px;
+  width: 900px;
+  color: rgb(11, 14, 185);
+}
+
+.myMenu {
+  position: relative;
+  left: 350px;
+  bottom: 265px;
+  width: 800px;
+  font-family: LibreBaskerville-Italic;
+  font-size: 1.3em;
+}
+.myMenu li {
+  display: inline-block;
+  margin: 4px;
+}
+
+.myMenu li a {
+  color: rgb(68, 9, 99);
+}
+.main h2 {
+  font-size: 2em;
+  color: rgb(3, 3, 245);
+}
+.main code {
+  font-style: oblique;
+  font-size: 2em;
+}
+.main p {
+  text-indent: 35px;
+  font-size: 1.5em;
+}
+.main ul {
+  font-family: "LibreBaskerville-Regular";
+  font-size: 1.2em;
+}
+.main a {
+  font-family: "LibreBaskerville-Regular";
+  font-size: 1.4em;
+  font-style: italic;
 }
