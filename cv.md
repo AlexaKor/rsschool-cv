@@ -2,7 +2,7 @@
 ***
 ***
  
-Pfone: *+375 8811111111*  
+Pfone: *+375 88111111*  
 email : *alkor97@gmail.com*  
 Address : *Mogilev.Mogilev  
 region.Belarus*
